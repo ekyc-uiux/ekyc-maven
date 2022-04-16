@@ -56,12 +56,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.videoplayer</groupId>
-      <artifactId>video_player_android_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.flutter.plugins.webviewflutter</groupId>
       <artifactId>webview_flutter_android_release</artifactId>
       <version>1.0</version>
